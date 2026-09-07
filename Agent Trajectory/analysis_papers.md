@@ -1,6 +1,6 @@
-(ASE 2025 Distinguished Paper Award) Understanding Software Engineering Agents: A Study of Thought-Action-Result Trajectories https://arxiv.org/abs/2506.18824 GitHub Repo stars | Studies 120 trajectories and 2,822 LLM interactions, identifying recurring motifs, anti-patterns, token-use patterns, and feedback-integration agentic coding behavior. coding agents thought-action-result
+(ASE 2025 Distinguished Paper Award) Understanding Software Engineering Agents: A Study of Thought-Action-Result Trajectories [[Paper] ](https://arxiv.org/abs/2506.18824) GitHub Repo stars | Studies 120 trajectories and 2,822 LLM interactions, identifying recurring motifs, anti-patterns, token-use patterns, and feedback-integration agentic coding behavior. coding agents thought-action-result
 
-(ASE-NIER 2025) Exploring autonomous agents: A closer look at why they fail when completing tasks https://arxiv.org/pdf/2508.13143 GitHub Repo stars | Develops a three-tier taxonomy that characterizes autonomous-agent failures across task-planning, task-execution, and response-generation phases. general-agent failure-taxonomy phase-analysis
+(ASE-NIER 2025) Exploring autonomous agents: A closer look at why they fail when completing tasks [[Paper] ](https://arxiv.org/pdf/2508.13143) GitHub Repo stars | Develops a three-tier taxonomy that characterizes autonomous-agent failures across task-planning, task-execution, and response-generation phases. general-agent failure-taxonomy phase-analysis
 
 (arXiv 2025) Beyond Final Code: A Process-Oriented Error Analysis of Software Development Agents in Real-World GitHub Scenarios [[Paper] ](https://arxiv.org/pdf/2503.12374)| Examines intermediate development behavior beyond final code patches. coding-agent error-taxonomy process-analysis
 
