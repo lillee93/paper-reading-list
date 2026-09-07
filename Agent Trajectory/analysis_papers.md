@@ -4,9 +4,9 @@
 
 (arXiv 2025) Beyond Final Code: A Process-Oriented Error Analysis of Software Development Agents in Real-World GitHub Scenarios [[Paper] ](https://arxiv.org/pdf/2503.12374)| Examines intermediate development behavior beyond final code patches. coding-agent error-taxonomy process-analysis
 
-(arXiv 2025) Demystifying the Lifecycle of Failures in Platform-Orchestrated Agentic Workflows [Paper] | Characterizes how failures originate, propagate, and become visible across orchestrated agent workflows. workflow-agent failure-lifecycle error-propagation
+(arXiv 2025) Demystifying the Lifecycle of Failures in Platform-Orchestrated Agentic Workflows [[Paper]](https://arxiv.org/abs/2509.23735) | Characterizes how failures originate, propagate, and become visible across orchestrated agent workflows. workflow-agent failure-lifecycle error-propagation
 
-(arXiv 2025) Understanding Code Agent Behaviour: An Empirical Study of Success and Failure Trajectories [Paper] | Comparatively studies success and failure trajectories, identifying strategies like defensive programming and context gathering that distinguish successful runs. coding-agent comparative-study
+(arXiv 2025) Understanding Code Agent Behaviour: An Empirical Study of Success and Failure Trajectories [[Paper] ](https://arxiv.org/abs/2511.00197)| Comparatively studies success and failure trajectories, identifying strategies like defensive programming and context gathering that distinguish successful runs. coding-agent comparative-study
 
 (ASE 2026) Evaluating Plan Compliance in Autonomous Programming Agents [Paper] | Systematically analyzes 16,991 SWE-agent trajectories, finding that plan quality and reminders substantially affect compliance and task success. coding-agent plan-compliance
 
