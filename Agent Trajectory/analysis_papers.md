@@ -8,14 +8,14 @@
 
 (arXiv 2025) Understanding Code Agent Behaviour: An Empirical Study of Success and Failure Trajectories [[Paper] ](https://arxiv.org/abs/2511.00197)| Comparatively studies success and failure trajectories, identifying strategies like defensive programming and context gathering that distinguish successful runs. coding-agent comparative-study
 
-(ASE 2026) Evaluating Plan Compliance in Autonomous Programming Agents [Paper] | Systematically analyzes 16,991 SWE-agent trajectories, finding that plan quality and reminders substantially affect compliance and task success. coding-agent plan-compliance
+(ASE 2026) Evaluating Plan Compliance in Autonomous Programming Agents [[Paper]](https://arxiv.org/abs/2604.12147) | Systematically analyzes 16,991 SWE-agent trajectories, finding that plan quality and reminders substantially affect compliance and task success. coding-agent plan-compliance
 
-(OOPSLA 2026) Process-Centric Analysis of Agentic Software Systems [Paper] | Introduces Graphectory to encode temporal and semantic relations in agentic trajectories. process-analysis trajectory-representation
+(OOPSLA 2026) Process-Centric Analysis of Agentic Software Systems [[Paper]](https://arxiv.org/abs/2512.02393) | Introduces Graphectory to encode temporal and semantic relations in agentic trajectories. process-analysis trajectory-representation
 
-(arXiv 2026) Failure as a Process: An Anatomy of CLI Coding Agent Trajectories [Paper] GitHub Repo stars | Studies failure as a developing process across CLI-agent trajectories. CLI-agent process-analysis
+(arXiv 2026) Failure as a Process: An Anatomy of CLI Coding Agent Trajectories [[Paper]](https://arxiv.org/abs/2607.09510) GitHub Repo stars | Studies failure as a developing process across CLI-agent trajectories. CLI-agent process-analysis
 
-(arXiv 2026) Beyond Resolution Rates: Behavioral Drivers of Coding Agent Success and Failure [Paper] | Investigates trajectory-level behaviors associated with successful and unsuccessful issue resolution. coding-agent behavioral-analysis success-factors
+(arXiv 2026) Beyond Resolution Rates: Behavioral Drivers of Coding Agent Success and Failure [[Paper]](https://arxiv.org/abs/2604.02547) | Investigates trajectory-level behaviors associated with successful and unsuccessful issue resolution. coding-agent behavioral-analysis success-factors
 
-(arXiv 2026) AgentLens: Revealing The Lucky Pass Problem in SWE-Agent Evaluation [Paper] | Shows that 10.7% of passing SWE-agent trajectories are "Lucky Passes". coding-agent process-assessment
+(arXiv 2026) AgentLens: Revealing The Lucky Pass Problem in SWE-Agent Evaluation [[Paper]](https://arxiv.org/abs/2605.12925) | Shows that 10.7% of passing SWE-agent trajectories are "Lucky Passes". coding-agent process-assessment
 
 
